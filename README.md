@@ -69,28 +69,26 @@ Each use case defines how actors interact with the system to perform a specific 
 # DIAGRAMS:
 USE CASE:
 
-![image](https://github.com/user-attachments/assets/3f5b44ad-2f2c-4c57-8dbb-74f0caf761dc)
+![UseCaseDiagram1](https://github.com/user-attachments/assets/5d70fad2-f67a-49b6-ad14-9371c38eb322)
 
 CLASS DIAGRAM:
 
-![image](https://github.com/user-attachments/assets/010ac642-502d-4987-a710-751ba2252a9b)
+![ClassDiagram1](https://github.com/user-attachments/assets/4ee9dbf9-2e05-4026-8324-23496b8396cd)
 
 SEQUENCE DIAGRAM:
+![SequenceDiagram1](https://github.com/user-attachments/assets/a049c1e7-a6d0-4193-909b-b392c570a29a)
 
-
-![image](https://github.com/user-attachments/assets/f836448f-a8bd-4750-9392-fb1f92f8c2c4)
 
 COMMUNICATION DIAGRAM:
+![CommunicationDiagram1](https://github.com/user-attachments/assets/1ab626c4-793c-43ac-9c68-600232610b00)
 
-
-![image](https://github.com/user-attachments/assets/b7736d00-8859-4766-ab49-c2aacfe0ba9d)
 
 ACTIVITY DIAGRAM:
 
-![image](https://github.com/user-attachments/assets/e075beae-e03b-4743-b93d-0293d8ea83a5)
+![ActivityDiagram1](https://github.com/user-attachments/assets/a0608b76-e9cd-4bde-a9b1-72d96e4dc750)
 
 PACKAGE DIAGRAM:
-![image](https://github.com/user-attachments/assets/e392a9e8-c843-4846-ab58-5d31a19cc097)
+![PackageDiagram1](https://github.com/user-attachments/assets/72ee7c2e-bd61-4412-8674-1ba9dc04423a)
 
 # RESULT:
 Thus the Student Online Exam Registration System project was executed and the output was verified.
